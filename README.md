@@ -9,7 +9,7 @@ Generate a username with words Joe says
 
 ### The CLI
 
-```
+```shell
 # To generate a Joe username with 4 words.
 $ joe-username 
 
@@ -19,7 +19,7 @@ $ joe-username 5
 
 ### As a python module
 
-```
+```python
 from joe_username import generate
 
 # prints a joe username with 4 words from the joe dictionary
