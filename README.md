@@ -10,10 +10,10 @@ Generate a username with words Joe says
 ### The CLI
 
 ```
-# To generate a **Joe username** with 4 words.
+# To generate a Joe username with 4 words.
 $ joe-username 
 
-# To generate a **Joe username** with 5 words.
+# To generate a Joe username with 5 words.
 $ joe-username 5 
 ```
 
