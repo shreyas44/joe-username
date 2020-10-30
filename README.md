@@ -29,3 +29,10 @@ print(generate())
 print(generate(5))
 
 ```
+
+## The Joe Dictionary
+
+You can get all the words from the Joe Dictionary by importing `JOE_DICTIONARY` from `joe_username` like below.
+```python
+from joe_username import JOE_DICTIONARY
+```
