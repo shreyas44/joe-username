@@ -1,5 +1,5 @@
 # joe-username
-Generate a username with words Joe says
+Generate a username with words directly from the Joe Dictionary
 
 ## Installation
 
