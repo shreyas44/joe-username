@@ -1,6 +1,6 @@
 import random
 
-JOES_CONSTANTS = ["right", "awesome", "interesting", "cool"]
+JOES_DICTIONARY = ["right", "awesome", "interesting", "cool"]
 
 def generate(max_limit=4):
   try:
@@ -16,7 +16,7 @@ def generate(max_limit=4):
   word = ""
 
   for i in range(max_limit):
-    rand_word = random.choice(JOES_CONSTANTS)
+    rand_word = random.choice(JOES_DICTIONARY)
     word += rand_word[0].upper() + rand_word[1:]
 
   return word

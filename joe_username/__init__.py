@@ -1,1 +1,1 @@
-from .generate import generate, JOES_CONSTANTS
+from .generate import generate, JOES_DICTIONARY
